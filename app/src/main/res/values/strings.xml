@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpannableRecyclerViewWithAutofit</string>
+    <string name="loading">Loading...</string>
+
+    <string name="general_statistic_use" translatable="false">IN USE:</string>
+    <string name="general_statistic_closed" translatable="false">CLOSED:</string>
+    <string name="general_statistic_call" translatable="false">IN CALL:</string>
+    <string name="general_statistic_simblock" translatable="false">BLOCKED:</string>
+    <string name="general_statistic_asr" translatable="false">ASR:</string>
+    <string name="general_statistic_acd" translatable="false">ACD:</string>
+    <string name="general_statistic_duration" translatable="false">DURATION:</string>
+</resources>
